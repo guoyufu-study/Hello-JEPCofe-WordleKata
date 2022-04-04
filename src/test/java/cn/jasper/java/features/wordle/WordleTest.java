@@ -1,6 +1,6 @@
 package cn.jasper.java.features.wordle;
 
-import cn.jasper.java.features.wordle.jdk7.Wordle;
+import cn.jasper.java.features.wordle.jdk8.Wordle;
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.CsvFileSource;
